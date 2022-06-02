@@ -1,0 +1,28 @@
+body {
+  background-color: blanchedalmond;
+}
+
+h1,
+p,
+div {
+  text-align: center;
+}
+
+.link {
+  margin: auto;
+  text-decoration: none;
+  text-align: center;
+  background-color: white;
+  color: black;
+  border: 2px solid chocolate;
+  padding: 10px 20px;
+  border-radius: 4px;
+  display: inline-block;
+  width: 100px;
+  margin: auto;
+}
+
+.link:hover {
+  background-color: chocolate;
+  color: white;
+}
